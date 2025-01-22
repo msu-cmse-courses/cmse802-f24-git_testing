@@ -3,5 +3,4 @@ Class repo for git testing
 
 
 ## Contributors List
-
-1. Luciano G. Silvestri
+1. Himanshi
