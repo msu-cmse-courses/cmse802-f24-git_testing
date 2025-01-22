@@ -5,3 +5,6 @@ Class repo for git testing
 ## Contributors List
 
 1. Luciano G. Silvestri
+2. Luisa Chavarria
+
+
